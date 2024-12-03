@@ -9,3 +9,15 @@ adding username
 adding user email
 
 >git config --global user.email "useremail"
+
+command for initializimg git in pwd
+
+>git init
+
+command for adding all untracked files to staging area
+
+>git add -A
+
+command for adding staged files to localrepository
+
+>git commit -m "commit message"
