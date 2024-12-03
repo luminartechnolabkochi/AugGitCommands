@@ -21,3 +21,7 @@ command for adding all untracked files to staging area
 command for adding staged files to localrepository
 
 >git commit -m "commit message"
+
+listing all untracked files
+
+>git status
