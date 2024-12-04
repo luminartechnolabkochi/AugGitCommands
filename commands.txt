@@ -25,3 +25,7 @@ command for adding staged files to localrepository
 listing all untracked files
 
 >git status
+
+>git remote add remote_name remote_path
+
+>git push remote_name branch_name
